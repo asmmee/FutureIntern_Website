@@ -1,3 +1,3 @@
 # FutureIntern_Website
 
-[Website.pdf](https://github.com/user-attachments/files/19545664/Website.pdf)
+![Website](https://github.com/user-attachments/assets/198c19c8-d97e-40f3-8db1-fa83507f4a79)
